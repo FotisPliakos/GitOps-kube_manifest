@@ -1,0 +1,1 @@
+# GitOps-kube_manifest
